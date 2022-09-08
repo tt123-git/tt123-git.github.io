@@ -1,0 +1,81 @@
+body {
+  margin:0;
+}
+
+.header-logo {
+
+  float:left;
+  padding:0px 40px;
+  font-family: serif;
+  margin: 0;
+}
+
+
+.header-list i {
+
+  float:right;
+  font-size: 24px;
+  padding: 20px 20px;
+  color: #800000;
+  
+}
+
+.header-list p {
+
+  list-style:none;
+  float:right;
+  font-size: 12px;
+  position: relative;
+  top:40px;
+  left:40px;
+  font-family: serif;
+}
+
+.list1 i{
+
+  position: relative;
+  right:10px;
+}
+
+.list2 i {
+
+  position: relative;
+  right:2px;
+}
+
+.list3 i {
+
+  position: relative;
+  right:3px;
+}
+
+.list4 p {
+
+  position: relative;
+  left:30px;
+}
+
+.list4 i {
+
+  position: relative;
+  right:40px;
+}
+
+.main {
+
+  font-family: serif;
+}
+
+.main-logo {
+
+  padding-top: 13px;
+  border-bottom:2px solid #c9171e;
+  
+
+}
+
+.footer {
+
+  background-color: #800000;
+  height:250px;
+}
